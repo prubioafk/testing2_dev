@@ -1,0 +1,33 @@
+{
+    "dropText": "Hierher ziehen",
+    "fileSelection": "Datei auswählen",
+    "save": "Speichern",
+    "close": "Schließen",
+    "invalidObjectType": "Ungültiger Objekttyp",
+    "processErrorDocument": "Fehler bei der Verarbeitung des Dokuments",
+    "saveOk": "PDF erfolgreich gespeichert",
+    "saveKo": "Fehler beim Speichern des PDFs. Überprüfe deine Anmeldedaten und den Reifestatus des Dokuments",
+    "sendFile": "Dokument hochladen",
+    "selectFiles": "Dateien auswählen",
+    "searchInstallation": "Installation suchen",
+    "searchProject": "Project suchen",
+    "autocompleteNoData": "Keine Ergebnisse gefunden",
+    "sucessUploadingDocument": "Dokument erfolgreich erstellt und klassifiziert.",
+    "errorUploadingDocument": "Fehler beim Erstellen oder Klassifizieren des Dokuments. Überprüfe die Daten und versuche es erneut.",
+    "description": "Beschreibung",
+    "classification": {
+        "selectedPath": "Ausgewählter Pfad",
+        "rootTitle": "Documentos",
+        "confirm": "Bestätigen",
+        "selectedId": "Ausgewählte ID:",
+        "noSelection": "Keine Klasse ausgewählt.",
+        "errorLoadingRoot": "Fehler beim Laden der Hauptklassen:",
+        "errorLoadingChildren": "Fehler beim Laden der Unterklassen:",
+        "search": "Ergebnisse filtern"
+    },
+    "installationType": {
+        "title": "Installationstyp",
+        "substation": "Umspannwerk",
+        "circuit": "Stromkreis"
+    }
+}

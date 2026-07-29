@@ -1,0 +1,33 @@
+{
+    "dropText": "Arrastra y suelta aquí",
+    "fileSelection": "Selecciona un fichero",
+    "save": "Guardar",
+    "close": "Cerrar",
+    "invalidObjectType": "Tipo de objeto no válido",
+    "processErrorDocument": "Error al procesar el documento",
+    "saveOk": "PDF guardado correctamente",
+    "saveKo": "Error al guardar PDF. Revisa sus credenciales y el estado de madurez del documento",
+    "sendFile": "Subir documento",
+    "selectFiles": "Selecciona archivos",
+    "searchInstallation": "Buscar instalación",
+    "searchProject": "Buscar proyecto",
+    "autocompleteNoData": "Sin resultados de búsqueda",
+    "sucessUploadingDocument": "Documento creado y clasificado correctamente.",
+    "errorUploadingDocument": "Error al crear o clasificar el documento. Revisa los datos e intenta de nuevo.",
+    "description": "Descripción",
+    "classification": {
+        "selectedPath": "Ruta seleccionada",
+        "rootTitle": "Documentos",
+        "confirm": "Aceptar",
+        "selectedId": "ID seleccionado:",
+        "noSelection": "No se ha seleccionado ninguna clase.",
+        "errorLoadingRoot": "Error al cargar las clases raíz:",
+        "errorLoadingChildren": "Error al cargar las subclases:",
+        "search": "Filtrar en los resultados"
+    },
+    "installationType": {
+        "title": "Tipo de instalación",
+        "substation": "Subestación",
+        "circuit": "Circuito"
+    }
+}

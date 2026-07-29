@@ -1,0 +1,33 @@
+{
+    "dropText": "Drag and drop here",
+    "fileSelection": "Select a file",
+    "save": "Save",
+    "close": "Close",
+    "invalidObjectType": "Invalid object type",
+    "processErrorDocument": "Error processing document",
+    "saveOk": "PDF saved successfully",
+    "saveKo": "Error saving PDF. Check your credentials and the document maturity state",
+    "sendFile": "Upload document",
+    "selectFiles": "Select files",
+    "searchInstallation": "Search installation",
+    "searchProject": "Search project",
+    "autocompleteNoData": "No results found",
+    "sucessUploadingDocument": "Document created and classified successfully.",
+    "errorUploadingDocument": "Error creating or classifying the document. Check the data and try again.",
+    "description": "Description",
+    "classification": {
+        "selectedPath": "Selected path",
+        "rootTitle": "Documentos",
+        "confirm": "Confirm",
+        "selectedId": "Selected ID:",
+        "noSelection": "No class has been selected.",
+        "errorLoadingRoot": "Error loading root classes:",
+        "errorLoadingChildren": "Error loading subclasses:",
+        "search": "Filter results"
+    },
+    "installationType": {
+        "title": "Installation type",
+        "substation": "Substation",
+        "circuit": "Circuit"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "dropText": "Trascina qui",
+    "fileSelection": "Seleziona un file",
+    "save": "Salva",
+    "close": "Chiudi",
+    "invalidObjectType": "Tipo di oggetto non valido",
+    "processErrorDocument": "Errore durante l'elaborazione del documento",
+    "saveOk": "PDF salvato con successo",
+    "saveKo": "Errore nel salvataggio del PDF. Controlla le credenziali e lo stato di maturità del documento",
+    "sendFile": "Carica documento",
+    "selectFiles": "Seleziona file",
+    "searchInstallation": "Cerca installazione",
+    "searchProject": "Cerca progetto",
+    "autocompleteNoData": "Nessun risultato trovato",
+    "sucessUploadingDocument": "Documento creato e classificato con successo.",
+    "errorUploadingDocument": "Errore durante la creazione o la classificazione del documento. Controlla i dati e riprova.",
+    "description": "Descrizione",
+    "classification": {
+        "selectedPath": "Percorso selezionato",
+        "rootTitle": "Documentos",
+        "confirm": "Conferma",
+        "selectedId": "ID selezionato:",
+        "noSelection": "Nessuna classe selezionata.",
+        "errorLoadingRoot": "Errore nel caricamento delle classi principali:",
+        "errorLoadingChildren": "Errore nel caricamento delle sottoclassi:",
+        "search": "Filtra risultati"
+    },
+    "installationType": {
+        "title": "Tipo di installazione",
+        "substation": "Sottostazione",
+        "circuit": "Circuito"
+    }
+}
